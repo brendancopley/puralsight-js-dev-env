@@ -1,0 +1,6 @@
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\bin\puralsight-js-dev-env.dll.config
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\bin\puralsight-js-dev-env.dll
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\bin\puralsight-js-dev-env.pdb
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\obj\Debug\puralsight-js-dev-env.csprojResolveAssemblyReference.cache
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\obj\Debug\puralsight-js-dev-env.dll
+C:\Users\StormTrooper\Source\Repos\puralsight-js-dev-env\puralsight-js-dev-env\puralsight-js-dev-env\obj\Debug\puralsight-js-dev-env.pdb
